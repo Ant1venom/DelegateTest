@@ -1,0 +1,15 @@
+D:\C#, Python projektek\DelegateTest\DelegateTest\DelegateTest\bin\Debug\net6.0\DelegateTest.exe
+D:\C#, Python projektek\DelegateTest\DelegateTest\DelegateTest\bin\Debug\net6.0\DelegateTest.deps.json
+D:\C#, Python projektek\DelegateTest\DelegateTest\DelegateTest\bin\Debug\net6.0\DelegateTest.runtimeconfig.json
+D:\C#, Python projektek\DelegateTest\DelegateTest\DelegateTest\bin\Debug\net6.0\DelegateTest.dll
+D:\C#, Python projektek\DelegateTest\DelegateTest\DelegateTest\bin\Debug\net6.0\DelegateTest.pdb
+D:\C#, Python projektek\DelegateTest\DelegateTest\DelegateTest\obj\Debug\net6.0\DelegateTest.csproj.AssemblyReference.cache
+D:\C#, Python projektek\DelegateTest\DelegateTest\DelegateTest\obj\Debug\net6.0\DelegateTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#, Python projektek\DelegateTest\DelegateTest\DelegateTest\obj\Debug\net6.0\DelegateTest.AssemblyInfoInputs.cache
+D:\C#, Python projektek\DelegateTest\DelegateTest\DelegateTest\obj\Debug\net6.0\DelegateTest.AssemblyInfo.cs
+D:\C#, Python projektek\DelegateTest\DelegateTest\DelegateTest\obj\Debug\net6.0\DelegateTest.csproj.CoreCompileInputs.cache
+D:\C#, Python projektek\DelegateTest\DelegateTest\DelegateTest\obj\Debug\net6.0\DelegateTest.dll
+D:\C#, Python projektek\DelegateTest\DelegateTest\DelegateTest\obj\Debug\net6.0\refint\DelegateTest.dll
+D:\C#, Python projektek\DelegateTest\DelegateTest\DelegateTest\obj\Debug\net6.0\DelegateTest.pdb
+D:\C#, Python projektek\DelegateTest\DelegateTest\DelegateTest\obj\Debug\net6.0\DelegateTest.genruntimeconfig.cache
+D:\C#, Python projektek\DelegateTest\DelegateTest\DelegateTest\obj\Debug\net6.0\ref\DelegateTest.dll
